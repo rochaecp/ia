@@ -2,6 +2,9 @@
 
 ## Brasileiros
 
+- **Álvaro Dias**
+    - neurocientista e colunista do Olhar Digital
+
 - **Julio Viana**
     - gerente regional github no Brasil (2024)
 
@@ -9,7 +12,8 @@
     - exoesqueleto copa de 2014
 
 - **Roberto Spinelli**
-    - físico pela USP, com especialidade em Machine Learning
+    - físico pela USP, com especialidade em Machine Learning 
+    - entrevista para o Olhar Digital sobre computação quântica
 
 ## Estrangeiros 
 
@@ -47,6 +51,8 @@
 - Pessoas        
     - **Andy Jassy**
         - CEO da Amazon (2025)
+    - **Jeff Bezos**
+        - ex-CEO
     - **Rohit Prasad**
         - Chefe da divisão de IA (2025)
 
@@ -68,6 +74,12 @@
 - Pessoas        
     - **Tim Cook**
         - CEO da Apple (2024)
+
+## *DeepSeek*
+
+- Informações Gerais
+    - [link](https://www.deepseek.com/)
+    - laboratório chinês que oferece modelos de inteligência artificial (IA) de código aberto e uso gratuito para desenvolvedores
 
 ## *Google*
 
@@ -124,6 +136,13 @@
 - Informações Gerais
     - Chips no cérebro
 
+## *Nirvanic Consciousness*
+
+- Informações Gerais
+    - misturar IA com computação quântica
+- Pessoas
+    - **Suzanne Gildert**    
+
 ## *Nvidia*
 
 - Pessoas
@@ -133,7 +152,9 @@
 ## *OpenAI*
 
 - Informações Gerais
+    - Fundada em 2015, com a ideia inicial de funcionar como uma ONG para desenvolver código aberto que beneficiasse toda a humanidade
     - Elon Musk deixou a companhia em 2018
+    - Em 2024 Elon Musk processou a OpenAI e Altman por quebrar o acordo fundador da empresa ao se associar a Microsoft e dar prioridade ao lucro em detrimento dos "benefícios para a humanidade".
     - 2024 
         - Lançou os GPT-4o e GPT-4o Mini
         - Lançou os o1 e o o1 Pro (dez/2024)
@@ -152,6 +173,10 @@
         - cofundador da Oracle
 
 ## *Perplexity*
+
+- Pessoas
+    - **Aravind Srinivas**
+        - CEO da Perplexity
 
 ## *Safe Superintelligence*
 

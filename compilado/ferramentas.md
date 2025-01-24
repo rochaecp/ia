@@ -124,25 +124,23 @@
     - Google
     - cria músicas instrumentais a partir de prompts
 
-## Para Códigos
+## Para Desenvolvedores
 
 - **/Code** 
     - na Google Labs - para criar experimentos com IA
     - Google
-
 - **365 Copilot** 
     - Microsoft
-
 - **Cursor AI**
-
+- **DeepSeek**
+    - [link](https://www.deepseek.com/)
+    - laboratório chinês que oferece modelos de inteligência artificial (IA) de código aberto e uso gratuito para desenvolvedores
+    - Modelo DeepSeek-R1 concorre com o o1 da OpenAI
 - **Github Copilot** - [link](https://code.visualstudio.com/blogs/2024/12/18/free-github-copilot)
-
 - **Help Me Script** 
     - na Google Labs
     - Google
-
 - **Notebook Jupyter** - [link](https://jupyter.org/)
-
 - **Notebook JupyterLite** - [link](https://jupyter.org/try-jupyter/lab/)
 
 ## Para Previsão do tempo e clima
@@ -242,30 +240,17 @@
 
 - **You.com** - [link](http://you.com)
 
-# *Assistentes Virtuais*
-
-- **Amazon**  
-    - Alexa 
-
-- **Apple**  
-    - Siri
-
-- **Google**  
-    - Google Assistant  
-    - Gemini Live 
-
-- **Samsung**  
-    - Bixby, a assistente pessoal da Samsung
-
-- **PI AI** 
-    - Atende via whatsapp
-
-# *Agentes Autônomos*    
+# *Assistentes Virtuais e Agentes de IA*
 
 - **AgentGPT**
     - OpenAI
 
 - **Agent Fun AI** - [link](https://agentfun.ai/)
+
+- **Alexa**  
+    - Amazon 
+
+- **Assistente da Perplexity**
 
 - **Astra**
     - Google
@@ -277,6 +262,10 @@
 - **Furon**
     - Samsung
 
+- **Google**  
+    - Google Assistant  
+    - Gemini Live 
+
 - **Jarvis** 
     - pc
     - Google
@@ -287,6 +276,19 @@
 - **Mariner** 
     - navega Na web
     - Google
+
+- **Operator** 
+    - OpenAI, lançado em jan/2025
+    - IA que mexe no computador
+
+- **Samsung**  
+    - Bixby, a assistente pessoal da Samsung
+
+- **Siri**  
+    - Apple
+
+- **PI AI** 
+    - Atende via whatsapp
 
 # *Veículos Autônomos*
 
