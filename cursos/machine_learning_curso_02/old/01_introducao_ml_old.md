@@ -69,8 +69,6 @@
     ![alt text](img/01_redes_neurais.png)
 
 
-<!-- ********************************************************************* Transcrito a mão até aqui  -->
-
 ## Treinamento de uma rede neural artificial    
 
 - As camadas ocultas da RN selecionam as características (features) importantes para o reconhecimento de um gato, por exemplo.
@@ -114,3 +112,5 @@
 ## Métodos para Algoritmos Genéticos
 
 ![alt text](img/02_algoritmos_geneticos.png)
+
+<!-- ********************************************************************* Transcrito a mão até aqui  -->
