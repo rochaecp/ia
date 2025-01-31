@@ -125,6 +125,10 @@
 
 - [link](https://invideo.io/)
 
+#### Janus-Pro-7B
+
+- DeepSeek
+
 #### Kaiber
 
 #### Notta
@@ -136,7 +140,10 @@
 - IA generativa da AWS de texto, foto e vídeo
 
 #### Pika
+
 - [link](https://pika.art/)
+
+#### Pixverse 
 
 #### Runway AI
 
@@ -241,16 +248,6 @@
 
 - corrige redações 
 
-## **Para a Justiça**
-
-#### Galileu
-
-- do Tribunal Regional do Trabalho da 4ª Região do Rio Grande do Sul (TRT4/RS)
-
-#### Maria
-
-- STF
-
 ## **Para Buscas na Web**
 
 #### Arc Search
@@ -268,6 +265,20 @@
 #### Startpage
 
 - [link](https://www.startpage.com/)
+
+## **Brasileiras**
+
+#### Dara
+
+- Serviços públicos
+
+#### Galileu
+
+- do Tribunal Regional do Trabalho da 4ª Região do Rio Grande do Sul (TRT4/RS)
+
+#### Maria
+
+- STF
 
 # *LLMs*
 
@@ -380,8 +391,10 @@
 #### Qwen
 
 - Da Alibaba
+- Qwen 2.5-Max compete com GPT-4o da OpenAI e o DeepSeek-V3
 
 #### You.com
+
 - [link](http://you.com)
 
 # *Assistentes Virtuais e Agentes de IA*

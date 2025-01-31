@@ -79,7 +79,7 @@
 
 #### Elon Musk
 
-- Tesla, xAI
+- Tesla, xAI, SpaceX 
 
 #### Han Jong-hee
 
@@ -146,6 +146,10 @@
 
 - CEO da Intel (2024)
 
+#### Paul Allen
+
+- Cofundador Microsoft
+
 #### Renato Citrini
 
 - gerente sênior de produtos da Samsung
@@ -161,6 +165,7 @@
 #### Satya Nadella
 
 - CEO Microsoft
+- X: [link](https://x.com/satyanadella)
 
 #### Sergey Brin
 
