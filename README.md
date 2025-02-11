@@ -1,22 +1,24 @@
 # Inteligência Artificial
 
-<!-- 
-    Anotações teóricas somente em papel.
-    Inserir aqui somente códigos bem documentados.
--->
+## Inteligência Artificial
 
-#### Úteis
+#### Curso 1
 
-<!-- - [Definições](compilado/definicoes.md)
-- [Ferramentas](compilado/ferramentas.md)
-- [Timeline](compilado/timeline.md)
-- [Empresas e Pessoas](compilado/empresas_e_pessoas.md)
-- [Eventos](compilado/eventos.md)
-- [Datasets](compilado/datasets.md)
-- [Engenharia de Prompt](compilado/eng_de_prompt.md) -->
+- [Pré-processamento](02_aprendizado_de_maquina/curso_01/01_pre_processamento.md)
 
-#### Cursos
+## Aprendizado de Máquina
 
-<!-- - [Machine Learning - Curso 01](estudos/machine_learning_curso_01/README.md)
-- [Machine Learning - Curso 02](estudos/machine_learning_curso_02/01_introducao_ml.md)
-- [Deep Learning - Curso 01](estudos/deep_learning_curso_01/README.md)  -->
+## Aprendizado Profundo
+
+####  Curso 1
+
+- [Perceptrons](03_aprendizado_profundo/curso_01/01_perceptron.ipynb)
+- [Tensores](03_aprendizado_profundo/curso_01/02_tensores.ipynb)
+- [Pytorch - Diversos](03_aprendizado_profundo/curso_01/pytorch_diversos.ipynb)
+
+## Úteis
+
+- [Ferramentas](_A_uteis/ferramentas.md)
+- [Datasets](_A_uteis/datasets.md)
+
+## Exercícios

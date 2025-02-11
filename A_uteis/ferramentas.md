@@ -184,6 +184,12 @@
  
 - exige direitos autorais
 
+#### Melobytes
+
+- [link](https://melobytes.com/en/intro#start-here)
+- Converte imagens em músicas.
+- Criada pela empresa Gardos Software.
+
 #### MusicFX
  
 - Google
@@ -197,9 +203,11 @@
  
 - na Google Labs- para criar experimentos com IA
 - Google
+
 #### 365 Copilot
  
 - Microsoft
+
 #### Cursor AI
 
 #### DeepSeek
@@ -207,16 +215,35 @@
 - [link](https://www.deepseek.com/)
 - laboratório chinês que oferece modelos de inteligência artificial (IA) de código aberto e uso gratuito para desenvolvedores
 - Modelo DeepSeek-R1 concorre com o o1 da OpenAI
+
 #### Github Copilot
+
 - [link](https://code.visualstudio.com/blogs/2024/12/18/free-github-copilot)
+
+#### Google AI Studio
+
+- Experimentar novas IAs
+
 #### Help Me Script
  
 - na Google Labs
 - Google
+
 #### Notebook Jupyter
+
 - [link](https://jupyter.org/)
+
 #### Notebook JupyterLite
+
 - [link](https://jupyter.org/try-jupyter/lab/)
+
+#### Playground do TensorFlow
+
+- .
+
+#### Vertex AI
+
+- Google, para treinar e implantar modelos de IA
 
 ## **Para Previsão do tempo e clima**
 

@@ -1,5 +1,9 @@
 # Datasets
 
+#### MNist
+
+- Dígitos numéricos feitos a mão
+
 #### Pokemon
 
 - [link](https://pokemondb.net/sprites)  
@@ -25,7 +29,16 @@
 - [link](https://www.kaggle.com/datasets/jsphyg/star-wars) 
 
 
+# Outros Datasets
 
+- ImageNet
+- TensorFlow
+    - gatos x cachorros
+- Google
+- Kaggle
+- .gov
+- Amazon
+- UCI
 
 
 

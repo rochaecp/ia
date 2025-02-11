@@ -29,6 +29,8 @@
 - O caminho para alcançar a AGI envolve desafios consideráveis nas áreas de hardware e software.
 - Esses modelos poderiam realizar as mesmas tarefas cognitivas dos seres humanos e resolver problemas para os quais não foram programados. Isso inclui aprender conceitos abstratos, compreender contextos e relações de causa e efeito, raciocinar de forma criativa e se adaptar a novos desafios com facilidade.
 - m teoria, a Inteligência Artificial Geral superaria a capacidade humana, pois teria as mesmas habilidades cognitivas, mas com a possibilidade de acessar um grande volume de dados em poucos segundos. Embora avanços significativos já estejam ocorrendo messa área, a GAI ainda é uma meta distante, com impasses técnicos e éticos a serem superados.
+- Outras definições
+    - capacidade de aprender novas tarefas em contextos completamente novos e sem treinamento
 
 ## Superinteligência Artificial ou  "Artificial Superintelligence" (ASI)
 
