@@ -1,4 +1,4 @@
-# *Ferramentas*
+## ==**Ferramentas**==
 
 ### **Para Textos**
 
@@ -240,17 +240,21 @@
  
 - Microsoft
 
-#### Amazon CodeWhisperer
+#### Agentes SDK
+
+- OpenAI
+
+#### Amazon Code Whisperer
 
 #### Cursor AI
 
-#### DeepSeek
+#### Deep Seek
 
 - [link](https://www.deepseek.com/)
 - laboratório chinês que oferece modelos de inteligência artificial (IA) de código aberto e uso gratuito para desenvolvedores
 - Modelo DeepSeek-R1 concorre com o o1 da OpenAI
 
-#### Github Copilot
+#### GitHub Copilot
 
 - [link](https://code.visualstudio.com/blogs/2024/12/18/free-github-copilot)
 
@@ -269,13 +273,17 @@
 
 - [link](https://jupyter.org/)
 
-#### Notebook JupyterLite
+#### Notebook Jupyter Lite
 
 - [link](https://jupyter.org/try-jupyter/lab/)
 
 #### Playground do TensorFlow
 
 - .
+
+#### Responses API
+
+- OpenAI
 
 #### Vertex AI
 
@@ -347,7 +355,7 @@
 
 #### STJ Logos
 
-# *LLMs*
+## ==**LLMs**==
 
 #### Claude 3  
 
@@ -386,7 +394,7 @@
 - Modelo de alta performance para empresas.  
 
 
-# *Plataformas*
+## ==**Plataformas**==
 
 #### Google AI Studio
 
@@ -410,7 +418,7 @@
  
 - Google
 
-# *Chat-bots*
+## ==**Chat-bots**==
 
 #### AI Overview
 
@@ -475,7 +483,7 @@
 
 - [link](http://you.com)
 
-# *Assistentes Virtuais e Agentes de IA*
+## ==**Assistentes Virtuais e Agentes de IA**==
 
 #### AgentGPT
 
@@ -495,6 +503,10 @@
 
 - Google
 
+
+#### Devin
+
+- Cognition AI, utilizada em migração de dados da Nubank entre 2023 e 2024.
 #### Gemini Google
 
 #### ChatGPT
@@ -555,7 +567,7 @@
  
 - Atende via whatsapp
 
-# *Veículos Autônomos*
+## ==**Veículos Autônomos**==
 
 #### Waymo
  

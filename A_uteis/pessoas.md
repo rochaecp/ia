@@ -1,7 +1,6 @@
-# *Pessoas (meio acadêmico)*
+## *Pessoas (meio acadêmico)*
 
-## **Brasileiros**
-
+### **Brasileiros**
 
 #### Álvaro Dias
 
@@ -23,7 +22,7 @@
 - físico pela USP, com especialidade em Machine Learning 
 - entrevista para o Olhar Digital sobre computação quântica
 
-## **Estrangeiros**
+### **Estrangeiros**
 
 #### Andrew Barto 
 
@@ -63,9 +62,9 @@
 
 - cientista de inteligência artificial (IA)
 
-# *Pessoas (meio empresarial)*
+## *Pessoas (meio empresarial)*
 
-## **Estrangeiros** 
+### **Estrangeiros** 
 
 #### Alexandr Wang
 
@@ -104,17 +103,24 @@
 - cofundador e ex-cientista chefe da OpenAI
 - Safe Superintelligence
 
+#### Jack Ma
+
+- Alibaba
 #### Jeff Bezos
 
 - ex-CEO Amazon
 
 #### Jeff Dean
 
-- cientista-chefe do DeepMind do Google (2023)
+- cientista-chefe do Deep Mind do Google (2023)
 
 #### Jensen Huang
 
 - co-fundador e CEO (2025) da Nvidia
+
+#### Joe Tsai
+
+- Alibaba
 
 #### Kai-Fu Lee
 
@@ -171,6 +177,11 @@
 #### Rohit Prasad
 
 - Chefe da divisão de IA (2025) Amazon
+
+
+#### Robin Li
+
+- CEO Baidu
 
 #### Sam Altman
 

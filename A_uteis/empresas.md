@@ -16,6 +16,10 @@
 
 - Fabricante de chips
 
+
+#### Cognition AI
+
+- CEO: Scott Wu, 2025
 #### DeepSeek
 
 - Fundada por Liang Wenfeng
@@ -85,6 +89,11 @@
 - produz hardware relacionado à IA
 
 #### SoftBank
+
+
+#### Stability AI
+
+- Stable Diffusion
 
 #### xAI
 
