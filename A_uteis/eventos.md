@@ -1,10 +1,12 @@
-# Eventos
-
-## *Nacionais*
+# *Eventos Nacionais*
 
 #### Olimpíada Nacional de IA
 
-## *Internacionais*
+# *Eventos Internacionais*
+
+#### AI Action Summit
+
+- 10/02/25 e 11/02/25 em Paris
 
 #### Build  
 
@@ -14,6 +16,10 @@
 
 - Maior feira de eletrônicos do mundo  
 - CES 2025 - 06/01 a 10/01 - Las Vegas - EUA  
+
+#### Connect
+
+- Evento da empresa Meta - para desenvolvedores - 17 e 18/09/25
 
 #### Conferência Internacional SGAI sobre Inteligência Artificial  
 
@@ -32,6 +38,10 @@
 - Início de maio de cada ano  
 
 #### IFS (Intel Foundry Services) Direct Connect  
+
+#### LlamaCon
+
+- Conferência de IA da Meta - 29/04/25
 
 #### Neural Information Processing Systems (NeurIPS) conference  
 

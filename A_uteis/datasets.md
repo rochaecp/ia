@@ -2,6 +2,7 @@
 
 #### MNist
 
+- [link - kaggle](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
 - Dígitos numéricos feitos a mão
 
 #### Pokemon

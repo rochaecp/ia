@@ -25,6 +25,11 @@
 
 ## **Estrangeiros**
 
+#### Andrew Barto 
+
+- Vencedor do Prêmio Turing, aprendizado por reforço
+- Professor de Informação e Ciências da Computação da Universidade de Massachusetts
+
 #### Francisco Herrera Triguero
 
 - professor de IA na Universidade de Granada e diretor do Instituto Andaluz na Espanha.
@@ -48,6 +53,15 @@
 #### Noam Chomsky
 
 - Linguista
+
+#### Richard Sutton
+
+- Vencedor do Prêmio Turing, aprendizado por reforço
+- Professor de Ciência da Computação da Universidade de Alberta
+
+#### Steven Hoi
+
+- cientista de inteligência artificial (IA)
 
 # *Pessoas (meio empresarial)*
 
@@ -186,3 +200,8 @@
 #### Tim Cook
 
 - CEO da Apple (2024)
+
+
+#### Yann Lecun
+
+- IA Facebook

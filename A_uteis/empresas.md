@@ -67,6 +67,10 @@
 
 #### Perplexity
 
+#### RT-One
+
+- Construção de um datacenter para IA no Paraná
+
 #### Safe Superintelligence
 
 - Fundada por Ilya Sutskever, ex cientista chefe da OpenAI

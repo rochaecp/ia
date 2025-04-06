@@ -1,6 +1,6 @@
 # *Ferramentas*
 
-## **Para Textos**
+### **Para Textos**
 
 #### ChatGPT
 
@@ -26,18 +26,31 @@
 #### NotebookLM
 
 - resumo De livros
+- Assistente de IA que gera respostas com base em arquivos que você forneça para ele, incluindo arquivos pessoais, sites, artigos científicos e vídeos do YouTube.
 
 #### Writer
 - [link](https://app.writer.com/)
 - otimizar textos pessoais e profissionais
 
-## **Para PDFs**
+### **Para Mapas Mentais**
+
+#### IA NotebookLM
+
+- Da Google
+- https://notebooklm.google.com/?original_referer=https:%2F%2Fcanaltech.com.br%23&pli=1
+
+### **Para PDFs**
 
 #### IA Assistent do Acrobat
  
 - resumir PDFs
 
-## **Para Imagens**
+### **Para Imagens**
+
+#### AirBrush
+
+- editor de fotos
+- retoques de imagem com auxílio de inteligência artificial (IA)
 
 #### Artbreeder
 
@@ -97,6 +110,8 @@
 
 - [link](https://www.midjourney.com/)
 
+#### Stable Diffusion
+
 #### Steve.AI
 
 #### Whisk
@@ -104,7 +119,9 @@
 - [link](https://labs.google/fx/tools/whisk/unsupported-country)
 - Google
 
-## **Para Vídeos**    
+### **Para Vídeos**    
+
+#### ByteCap
 
 #### Eightify
 
@@ -120,6 +137,12 @@
 - Adaptar vídeos longos para formatos curtos
 
 #### Google Vids
+
+#### Goku
+
+- Gera vídeos inteiros a partir de uma imagem e trilha de áudio
+
+#### Hailuo AI
 
 #### InvideoAI
 
@@ -172,13 +195,22 @@
 
 #### Visla
 
+#### Wan
+
+- Alibaba
 
 #### You-TLDR
 
 - Resumir vídeos do Youtube
 
 
-## **Para Músicas**
+### **Para Reuniões on-line**
+
+#### Otter.AI
+
+#### Read.AI
+
+### **Para Músicas**
 
 #### AIVA
  
@@ -197,7 +229,7 @@
 
 #### Suno AI
 
-## **Para Desenvolvedores**
+### **Para Desenvolvedores**
 
 #### /Code
  
@@ -207,6 +239,8 @@
 #### 365 Copilot
  
 - Microsoft
+
+#### Amazon CodeWhisperer
 
 #### Cursor AI
 
@@ -219,6 +253,8 @@
 #### Github Copilot
 
 - [link](https://code.visualstudio.com/blogs/2024/12/18/free-github-copilot)
+
+#### Gemini Code Assist
 
 #### Google AI Studio
 
@@ -245,7 +281,7 @@
 
 - Google, para treinar e implantar modelos de IA
 
-## **Para Previsão do tempo e clima**
+### **Para Previsão do tempo e clima**
 
 #### GenCast
 
@@ -254,7 +290,7 @@
 #### ClimateNet
     
 
-## **Para a Área Médica**
+### **Para a Área Médica**
 
 #### AlphaFold
  
@@ -265,7 +301,7 @@
 #### Modelo de Linguagem Truveta (TLM)
 
 
-## **Para o Ensino**
+### **Para o Ensino**
 
 #### Aprimora
 
@@ -275,7 +311,7 @@
 
 - corrige redações 
 
-## **Para Buscas na Web**
+### **Para Buscas na Web**
 
 #### Arc Search
 
@@ -293,7 +329,7 @@
 
 - [link](https://www.startpage.com/)
 
-## **Brasileiras**
+### **Brasileiras**
 
 #### Dara
 
@@ -303,9 +339,13 @@
 
 - do Tribunal Regional do Trabalho da 4ª Região do Rio Grande do Sul (TRT4/RS)
 
+#### MariTalk 
+
 #### Maria
 
 - STF
+
+#### STJ Logos
 
 # *LLMs*
 
@@ -358,6 +398,8 @@
 - [link](https://labs.google/experiments)  
 - Plataforma para testar ferramentas da Google que estão em desenvolvimento
 
+#### Hugging Face
+
 #### Poe
 
 - [link](https://poe.com)  
@@ -368,7 +410,7 @@
  
 - Google
 
-# *Chatbots*
+# *Chat-bots*
 
 #### AI Overview
 
@@ -398,6 +440,10 @@
 - Antigo Bard
 - Utiliza o modelo de linguagem neural conversacional LaMDA (Language Model for Dialogue Applications)
 
+#### Grok 3
+
+- Lançado em 2025
+
 #### Llama
 
 - Da Meta
@@ -419,6 +465,11 @@
 
 - Da Alibaba
 - Qwen 2.5-Max compete com GPT-4o da OpenAI e o DeepSeek-V3
+
+#### QwQ-32B
+
+- Da Alibaba
+- Código aberto e disponível na Hugging Face
 
 #### You.com
 
@@ -471,12 +522,21 @@
 
 - Google
 
+#### Manus AI
+
+- Agente de IA chinês criado para desempenhar tarefas complexas de forma autônoma
+
 #### Mariner
  
 - navega Na web
 - Google
 
 #### Microsoft Copilot
+
+#### Open Deep Research
+
+- Hugging Face
+- 55,15% no benchmark GAIA – que avalia a capacidade de coletar e sintetizar informações de múltiplas fontes
 
 #### Operator
  
